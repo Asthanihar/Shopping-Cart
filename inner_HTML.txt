@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>question 1 b
+</title>
+<link rel="stylesheet" type="text/css" href="DA2Q1B.css">
+</head>
+<body>
+<h1>With the class selector you can define different styles for the same type of HTML element.</h1>
+<p class="right">This is right aligned</p>
+<p class="center">This is centered</p>
+<a href="DA2Q1A.html">Back to main page</a>
+</body>
+</html>
+<html>
+<head>
+
+ 
+<body>
+<h1 align="center">ALL ABOUT BUTTERFLIES!</H1><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<div class="dropdown">
+	<button class="dropbtn">Butterfly Dropdown Menu</button>
+	<div class="dropdown-content">
+<a href="DA2Q2.HTML">All about Butterflies Home Page</a>
+<a href="intro.html">Introduction</a>
+<a href="AAC.HTML">Art and culture</a>
+<a href="FFS.HTML">Fast Facts</a>
+<a href="https://en.wikipedia.org/wiki/Butterfly">WIKIPEDIA REFERENCE</a>
+</div>
+</div>
+<video width="320" height="420" autoplay>
+<source src="butterflyvideo.mp4" type="video/mp4">
+</video>
+<div class="ani"></div>
+</body>
+</html>
+<html>
+<head>
+<title>Covid 19</title>
+
+</head>
+<body>
+<h1 class="covid">All about Novel CoronaVirus!</h1><br><br>
+<div class="corona">
+COVID-19 is a type (strain) of coronavirus. A virus is a very small (microscopic) type of germ that can cause an infection. It can only replicate in a host, such as a person or other living things. You might not always feel sick from viruses. However, viruses can make you seriously ill and cause disease.
+
+The disease caused by this virus has different names. The disease is called COVID-19 – Coronavirus Disease 2019 for the year in which it first appeared globally. COVID-19 is also known as “novel coronavirus,” meaning a new type of coronavirus not previously discovered or identified.The most common symptoms of coronavirus disease (COVID-19) are:Fever,Cough,Shortness of Breath.The virus that causes COVID-19 seems to be spreading easily in some affected geographic areas.
+
+COVID-19 is thought to spread mainly from person-to-person (within about 6 feet) through small drops of liquid made when an infected person coughs or sneezes (known as respiratory droplets).COVID-19 can be contagious when someone has symptoms. It may also be contagious in people who are infected and not have symptoms. Researchers continue to study this new disease and how it spreads.</div><br><br><br>
+<label>Solution for Covid-19:</label><br>
+<textarea id="ta1" rows="4" cols="50">
+</textarea>
+<div class="virus"></div>
+</body>
+</html>
+
+
+<html>
+<head>image file</head>
+<body>
+<img src="flower.jpg"/></body></html>
